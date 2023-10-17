@@ -1,4 +1,3 @@
-# Mp
+## Mp
 
-Repositorio que almacena todo el contenido hecho para las practicas de Metodologia de la programacion 
-de 1º Ing Informatica de la UCO.
+Repositorio usado para la preparacion de dicha asignatura de 1º ing informatica de la uco, no se han añadido documentos oficiales de examenes.
